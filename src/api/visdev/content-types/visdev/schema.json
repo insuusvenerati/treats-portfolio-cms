@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "visdevs",
+  "info": {
+    "singularName": "visdev",
+    "pluralName": "visdevs",
+    "displayName": "Visdev"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "images": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": true,
+      "required": true
+    }
+  }
+}
